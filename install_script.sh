@@ -15,14 +15,14 @@ tk-dev libffi-dev liblzma-dev python-openssl jq default-jdk imagemagick \
 libmagickwand-dev software-properties-common apt-transport-https \
 git emacs nomacs nemo zsh htop gnome-tweak-tool gnome-sushi neofetch dconf-editor \
 qbittorrent chrome-gnome-shell libproxy1-plugin-networkmanager gparted \
-baobab libimage-exiftool-perl net-tools aircrack-ng calibre
+baobab libimage-exiftool-perl net-tools aircrack-ng calibre clementine ffmpeg rclone p7zip
 
 ## Alacritty is gooooooooood!!!!
 sudo add-apt-repository ppa:mmstick76/alacritty
 sudo apt install alacritty
 
 ## Download and install snap packages
-sudo snap install vlc discord spotify telegram-desktop inkscape libreoffice
+sudo snap install vlc discord spotify telegram-desktop inkscape libreoffice youtube-dl
 
 ## The best editor is neither Emacs nor Vim, it's Emacs AND Vim!
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
