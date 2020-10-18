@@ -15,7 +15,8 @@ tk-dev libffi-dev liblzma-dev python-openssl jq default-jdk imagemagick \
 libmagickwand-dev software-properties-common apt-transport-https \
 git emacs nomacs nemo zsh htop gnome-tweak-tool gnome-sushi neofetch dconf-editor \
 qbittorrent chrome-gnome-shell libproxy1-plugin-networkmanager gparted \
-baobab libimage-exiftool-perl net-tools aircrack-ng calibre clementine ffmpeg rclone p7zip
+baobab libimage-exiftool-perl net-tools aircrack-ng calibre clementine ffmpeg \
+rclone p7zip tmux
 
 ## Alacritty is gooooooooood!!!!
 sudo add-apt-repository ppa:mmstick76/alacritty
